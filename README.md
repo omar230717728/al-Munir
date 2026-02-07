@@ -86,7 +86,7 @@ Built with ❤️ using **Flutter** and a robust ecosystem of packages:
 
 | Onboarding | Home Screen | Quran Page | Audio Player |
 |:----------:|:-----------:|:----------:|:------------:|
-| <img src="assets/screenshots/onboarding.png" width="200" /> | <img src="assets/screenshots/home.png" width="200" /> | <img src="assets/screenshots/quran.png" width="200" /> | <img src="assets/screenshots/audio.png" width="200" /> |
+| <img src="assets/screenshots/onboarding.png" width="200" /> | <img src="assets/screenshots/home.jpg" width="200" /> | <img src="assets/screenshots/quran.jpg" width="200" /> | <img src="assets/screenshots/audio.png" width="200" /> |
 
 ---
 
