@@ -84,9 +84,9 @@ Built with ❤️ using **Flutter** and a robust ecosystem of packages:
 
 ## 📱 Screenshots
 
-| Home Screen | Quran Page | Audio Player |
-|:-----------:|:----------:|:------------:|
-| <img src="assets/images1/al-munner.png" width="200" /> | *(Add Screenshot)* | *(Add Screenshot)* |
+| Onboarding | Home Screen | Quran Page | Audio Player |
+|:----------:|:-----------:|:----------:|:------------:|
+| <img src="assets/screenshots/onboarding.png" width="200" /> | <img src="assets/screenshots/home.png" width="200" /> | <img src="assets/screenshots/quran.png" width="200" /> | <img src="assets/screenshots/audio.png" width="200" /> |
 
 ---
 
